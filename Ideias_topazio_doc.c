@@ -1,23 +1,23 @@
 ///////////////////////////////////////////////////////////////////////////////////////////////
-/**Documentação de idéias sugeridas pela galera da pág Pokémon Topázio 						 //	
-   																							 //
-   OBS :. O nível de importância da ideia é simbolizada pelo numéro de *(asteristicos);		 //
-																							 //	
-   ** -> Essêncial																			 //	
-   *  -> importante 																		 //	
-      -> tanto faz 																			 //
-																							 //
-   //MSG_BYME 	  = Mensagem realizada por mim.												 //
-   //(outro_nome) = Mensagem realizada por outro usuário.									 //	
-   //REPLY (nome_usuario) = Mensagem de resposta.											 //
+/**Documentação de idéias sugeridas pela galera da pág Pokémon Topázio 			     //	
+   											     //
+   OBS :. O nível de importância da ideia é simbolizada pelo numéro de *(asteristicos);      //
+											     //	
+   ** -> Essêncial									     //	
+   *  -> importante 									     //	
+      -> tanto faz 								             //
+											     //
+   //MSG_BYME 	  = Mensagem realizada por mim.						     //
+   //(outro_nome) = Mensagem realizada por outro usuário.			             //	
+   //REPLY (nome_usuario) = Mensagem de resposta.					     //
    /*TÓPICO *_/ = Um tópico ou funcionalidade em que vários usuários concordam em ter 	     //
-   																					         //
-**/																							 //
-																							 //
-//MSG_BYME_START																			 //
-	"DIGAM COISAS QUE VOCÊS QUEREM QUE TENHA NA ROM HACK POKÉMON TOPÁZIO, 					 //
-	 IREI RESPOMDER A TODOS ^^"																 //
-	 																						 //
+   					              					     //
+**/											     //
+											     //
+//MSG_BYME_START									     //
+	"DIGAM COISAS QUE VOCÊS QUEREM QUE TENHA NA ROM HACK POKÉMON TOPÁZIO, 		     //
+	 IREI RESPOMDER A TODOS ^^"							     //
+	 										     //
 ///////////////////////////////////////////////////////////////////////////////////////////////
 
 
