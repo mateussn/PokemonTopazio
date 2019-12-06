@@ -1,5 +1,5 @@
 ///////////////////////////////////////////////////////////////////////////////////////////////
-/**Documentação de idéias sugeridas pela galera da pág Pokémon Topázio 			     //	
+/**Documentação de idéias sugeridas pela galera da pág Pokémon Topázio 	WIP		     //	
    											     //
    OBS :. O nível de importância da ideia é simbolizada pelo numéro de *(asteristicos);      //
 											     //	
