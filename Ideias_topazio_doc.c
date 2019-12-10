@@ -23,10 +23,10 @@
 
 
 //LUCAS RODRIGO
-	"*Contest - (Competições das mais variadas que)."
+	"*Contest - (Competições das mais variadas)."
 
 //JHONATAN ICE
-   "**Poder correr logo no início do jogo pq é chato fica andando.
+	"**Poder correr logo no início do jogo pq é chato fica andando.
 
 	*Fazer um lugar onde vc batalha e se ganha vc ganha um pokémon e se vc perde vc perde um pokémon
 	(Tipo o sistema de batalha de yu gi oh)"
@@ -37,6 +37,7 @@
 	"*Attacks atualizados versão xy" 
 
 /*MEGA_EVO_COMMENTS */
+	"MEGA_EVOLUÇÃO IMPORTÂNCIA == ** "
 	"Implementação de mega evolução em batalha"
 	-ANDERSON FELIPE
 	-GUILHERME EDUARDO
@@ -55,17 +56,17 @@
 	"Colocar pra quando vencer uma batalha TDS os pokémons ganhar xp igual pra não ter q ficar 10 anos no matinho"
 
 //RAFAEL PEREIRA
-	*pokemons que evoluem por troca evoluírem por lvl ou item consumível
+       "*pokemons que evoluem por troca evoluírem por lvl ou item consumível
 	*Moves atualizados até a 5°Gen
 	*chance de achar pokemon shiny um pouco aumentada
-	**dificuldade aumentada (estilo Flora Sky rebirth)
-	*alola forma
-	*alguns eventos extras..
+	 dificuldade aumentada (estilo Flora Sky rebirth)
+         alola forma
+	*alguns eventos extras.."
 	//REPLY LARRY GREY
-		Cancela essa de dificuldade de flora sky pel'amor de deus :@ !!!
+		"Cancela essa de dificuldade de flora sky pel'amor de deus :@ !!!"
 		//REPLY_ME:
-			Quanto aos itens 1, 2, 3, 5, 6 estão todos garantidos. 
-			Agora sobre a dificuldade aumentada no estilo Flora Sky Rebirth vou pensar um pouquinho
+		       "Quanto aos itens 1, 2, 3, 5, 6 estão todos garantidos. 
+			Agora sobre a dificuldade aumentada no estilo Flora Sky Rebirth vou pensar um pouquinho"
 
 //MATHEUS DE OLIVEIRA BRANGATTO 
 	*Eventos de pokémon shiny e um tipo de torneio pokémon com treinadores randômicos
