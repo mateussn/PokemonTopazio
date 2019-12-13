@@ -116,6 +116,8 @@
 		9-Pokémon Topázio vai ter uma variedade incrível de pokes, Vai ter pokes de até a geração que existir quando for lançado.
 		Obrigado Kawan, seu comentário foi de grande ajuda!"
 //MOISES LIMA
+      "*De preferência deixa o XP Share já no computador inicial kkkkkk"
+			
       "**Só não me coloque um primeiro ginásio nível 40 e me deixar pra treinar nas graminhas com pokes lvl 5, 
          já dropei várias Roms por causa disso, quebra totalmente o sentido de progressão do jogo, esse tipo de Rom ou vc
 	 usa cheat pra upar seus pokes mais rápido, ou simplesmente dropa. Outro ponto super importante pra mim, sistema de 
@@ -140,7 +142,7 @@
 							
 							//MOISES LIMA
 							"Pokémon Versão Topázio de nada, quero que essa rom fique bem legal pra que eu possa curtir muito, quanto a menção,
-							 geralmente não vejo os créditos, e não acho que sou tão merecedor de aparecer na introdução do jogo kkkkk, então pode ser via NPCccC 
+							 geralmente não vejo os créditos, e não acho que sou tão merecedor de aparecer na introdução do jogo kkkkk, então pode ser via NPC   wwe 
 							 mesmo( de preferência antes da liga pq não costumo fazer muito pós games) kkkkkkkkk"
 								//REPLY_ME:
 							       "Kkkkkk, tudo bem então! 
@@ -152,40 +154,36 @@
 						        "*obrigado, vou tentar pensar em outras sugestões que possam ser úteis, 
 							  até pensei em te falar sobre o esquema de natures que o Tracer usou na rom dele Flora Sky Rebirth, em que ele 
 							  descrevia a nature ao lado do nome, mas acho que já sugeriram isso tbm"
-								
-	"*Exp share no PC inicial
-		distribuir exp para a equipe inteira"
-
+													  
 //IGOR GARCIA 
-       "*1-Missões secundárias
-	*2-Muito Pós-game ksksksk
-	 3-Pokémons de niveis altos nos matinhos para poder treinar
-	*4-XP para todos da equipe"
-		//Igor Garcia Pokémon 
-		"*Versão Topázio mais uma idéia, ia ser legal se vc colocasse uns itens raros
- 		  escondidos pelo mapa (igual do verde musgo q tem alguns pokémons) ia ser tipo um bônus pra 
-		  quem curti explorar os mapas dos games"
-			//REPLY ME:
+       "*1-Missões secundárias.
+	*2-Muito Pós-game ksksksk.
+	 3-Pokémons de niveis altos nos matinhos para poder treinar.
+	*4-XP para todos da equipe."
+		//IGOR GARCIA  
+			"*Pokémon_Versão_Topázio mais uma idéia, ia ser legal se vc colocasse uns itens raros
+			  escondidos pelo mapa (igual do verde musgo q tem alguns pokémons) ia ser tipo um bônus pra 
+		 	  quem curte explorar os mapas dos games."
+			  //REPLY ME:
 				"O ponto 1 confere! 
 				 O 2 também, O 4 a galera tá pedindo bastante, vou ver como posso aplicá-lo da melhor forma. 
 				 Quanto ao 3 os Pokémon dos matos terão um nível equilibrado, nem tão alto e nem tão baixo, 
 				 vou fazer bastante testes para deixar o melhor possível essa questão. Forte Abraço Igor!"
 
 //JUNIOR FERNANDE BRAYAN
-	  "1-Pokemons que são por trade e por item tem que evoluir por nível 
-	   2-ter todas as TMS pra ser utilizado nos pokemons 
-	   3-ter todas Pokébolas a venda principalmente a park Ball pra a captura de Lendários a Master Ball seria pra captura
-	   de pokemons míticos.
-	   4-ter as mega evolução dos lendários específico 
-	   5-ter mais insígnias no total de 32 ou mais
-	   6-ter todos os personagens nos lugares específicos
-	   7-as venda de rare Candy que seja de graça
-	   8-fazer os mini torneios pra ganhar os pokemons que não tem na dex"
+	  "*1-Pokémon que são por trade e por item tem que evoluir por nível. 
+	    2-ter todas as TMS pra ser utilizado nos pokémon.
+	   *3-ter todas Pokébolas a venda principalmente a park Ball pra a captura de Lendários a Master Ball seria pra captura
+	     de pokemons míticos.
+	   *4-ter as mega evolução dos lendários específico.
+	    5-ter mais insígnias no total de 32 ou mais.
+	    6-ter todos os personagens nos lugares específicos.
+	    7-as venda de rare Candy que seja de graça.
+	   *8-fazer os mini torneios pra ganhar os pokemons que não tem na dex"
 		//REPLY_ME:
 		       "Pokémon Versão Topázio Bem, muitos falaram dessa questão de evolução por trade ou item deveria não existir nessa Hack, 
 			e é isso que vou fazer, também nunca gostei disso. Sobre as outras coisas que você falou vou deixar anotado aqui no bloco de idéias e 
-			possivelmente aplicar a maioria delas.
- 			Obrigado aí Junior, um abraço da Bahia!!"
+			possivelmente aplicar a maioria delas. Obrigado aí Junior, um abraço da Bahia!!"
 
 //PEDRO AGUIAR:
 	"*Poder ter sem cheatar todos (até q geração que vai ter no jogo) os pokémons dragão"
@@ -195,7 +193,7 @@
 //GABRIEL BRAGA
 	"*1-Missões opcionais para se fazer durante o jogo, aumentando a imersão na rom hack e ocupar maior tempo de jogo.
 	 *2-Espaço no Computador expandido para poder armazenar todos os Pokémon, pensando em quem gosta de completar a Pokédex.
-	 *3-Novos desings para Pokédex, mochila, Cartão de Treinador, entre outros, apenas para aumentar a originalidade da rom hack, tal qual, tiles e sprites.
+	**3-Novos desings para Pokédex, mochila, Cartão de Treinador, entre outros, apenas para aumentar a originalidade da rom hack, tal qual, tiles e sprites.
 	 *4-Pós game com possibilidades de desafiar novamente os líderes de ginásios, espaço semelhante com a Batalha da Fronteira, etc."
 		//REPLY_ME:
 			"Muito bom! Os pontos 1, 3, 4 já são garantidos. Quanto ao Espaço do PC expandido eu vou pesquisar um pouco acerca e tentar implementar"
@@ -205,20 +203,19 @@
 
 //LARRY GREY 
        "1-Todos os inicias pra poder escolher tipo como fizeram na hack Dark Workship
-	2-Mais eventos e missões entre as cidades/ginasios. Tais como lutar com guardiões de alola para ganhar um Z-ring ou Z-move.
+       *2-Mais eventos e missões entre as cidades/ginasios. Tais como lutar com guardiões de alola para ganhar um Z-ring ou Z-move.
 	3-Tem que ter todos os pkms de 1* a 7* geração. E mais variações de pokemons nos matinhos de acordo o habitat natural deles.
-	4-E nada de difiiculdade aumentada igual ao Flora Sky Heehe.
+       *4-E nada de difiiculdade aumentada igual ao Flora Sky Heehe.
 	  ARRAZEM! JA TO ASIOSO PELA HACK."
 		//REPLY_ME:
 			"Valeu Larry!
 			 Vou anotar aqui, sobre a dificuldade aumentada pode ficar tranquilo hehe vou tomar muito cuidado com isso, 
 			 a dificuldade do jogo vai ser equilibrada como nos jogos oficiais"
 		//MOISES LIMA 
-			"Não confunda equilibrada com fácil pelo amor de Deus 😅 😅 😅 😅 😅"
+			"*Não confunda equilibrada com fácil pelo amor de Deus 😅 😅 😅 😅 😅"
 
 		//REPLY_ME:
-			"Pokémon Versão Topázio Pode ficar tranquilo Moises Lima ^^,
-			 essa questão de dificuldade do jogo vou tomar o máximo de cuidado e deixar o melhor possível, 
+			"Pode ficar tranquilo Moises Lima ^^, essa questão de dificuldade do jogo vou tomar o máximo de cuidado e deixar o melhor possível, 
 			 essa ROM Hack vai passar rigorosamente por testes para averiguar a dificuldade(inclusive por você e a galera do server de Paradise) 
 			 entre outras coisas, vou ter um foco especial nesse quesito. A dificuldade teria base nos jogos oficiais só que um pouquinho mais apimentada 
 			 para não ficar tão fácil. Bom, então é isso, Forte Abraço colega!"
@@ -227,36 +224,36 @@
 	"*Poder cumprir as missões a qualquer momento, sem obrigatoriedade de seguir uma ordem."
 
 //VITOR MACEDO
-	"*Missões opcionais, evolução por level ao invés de ser por troca e aparecimento dos personagens do anime nos torneios"
+	"*1-Missões opcionais.
+	 *2-Evolução por level ao invés de ser por troca.
+	 *3-aparecimento dos personagens do anime nos torneios."
 
 //MATHEUS MOTA AVELINO 
 	"*1-Que não tenha fakemon.
-	  2-diversos iniciais pra escolher; eu por exemplo amo o torchic/blaziken e quase nunca os acho em hack rom.
+	  2-diversos iniciais pra escolher, eu por exemplo amo o torchic/blaziken e quase nunca os acho em hack rom.
 	    Obrigado pelo esforço em produzir esse conteúdo."
 
 //RYAN MATHEUS 
 	"*1-Coloca xp for all, isso é muito interessante, porque ajuda no treinamento
-          2-coloca tbm se possivel um nivel equilibrado dos treinadores, mas não coloca muito fraco se não perde a graça.
+         *2-coloca tbm se possivel um nivel equilibrado dos treinadores, mas não coloca muito fraco se não perde a graça.
       	  3-se possivel aumentar o nivel maximo dos Pokémon tipo flora sky onde os poke vai até o lvl 150.
-          4-e outra coisa, aumenta faz uma ilha pós game parecido com a fronteira de batalha, pra se divertir 
-	    quando zerar o game. 
-          Tô ansioso pelo game!"
+         *4-e outra coisa, aumenta faz uma ilha pós game parecido com a fronteira de batalha, pra se divertir 
+	    quando zerar o game. Tô ansioso pelo game!"
 		//REPLY_ME:
 			"Pokémon Versão Topázio Obrigado pelas sugestões Ryan Matheus. Xp for all a galera tá pedindo bastante,
 		         sobre os níveis de treinadores será equilibrado porém não fácil. O pós game será imenso, pode aguardar que você irá gostar, 
-			 talvez demore um pouco até ser lançada essa ROM Hack, mas quando for, você vai amar"
+			 talvez demore um pouco até ser lançada essa ROM Hack, mas quando for, você vai amar."
 
 //GUSTAVO KAKO 
 	"*No pós game, colocar treinadores, de anime/ jogos com seus principais pokémons para batalhar com lvl 80/90
 	  exemplo-
-	  	red (latios,charizard,blastoise,venusaur,snorlax e mewtwo)
+	  	-red 
+		(latios,charizard,blastoise,venusaur,snorlax e mewtwo)
 		-Ash (kalos)
 		(Greninja, talonflame, hawlucha, goodra, noiver, pikachu)
 		-cynthia
 		(Milotic, roserade, spiritomb, garchomp, lucario, togekiss)
 		Assim vai..."
 
-
 //IDEIAS_BY_MATEUS
 	"*wonder trade"
-	
