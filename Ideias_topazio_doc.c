@@ -12,7 +12,8 @@
    //REPLY_ME = Mensagem de resposta realizada por mim.  				     //	
    //REPLY (NOME_USUARIO) = Mensagem de resposta.					     //
    /*(TÓPICO) *_/ = Um tópico ou funcionalidade em que vários usuários concordam em ter.     //
-   //MSG_BYME_START = Texto da postagem realizada por mim.			             //
+   //MSG_BYME_START = Texto da postagem realizada por mim.				     //
+   //EDIT = Uma pequena observação feita por mim.					     //
 **/											     //
 											     //
 //MSG_BYME_START									     //
@@ -21,15 +22,13 @@
 	 										     //
 ///////////////////////////////////////////////////////////////////////////////////////////////
 
-
-
+		
 //LUCAS RODRIGO
 	"*Contest - (Competições das mais variadas)."
 
 //JHONATAN ICE
-	"**Poder correr logo no início do jogo porque é chato ficar andando.
-
-	*Fazer um lugar onde você batalha e se ganhar você ganha um pokémon e se você perde você perde um pokémon
+      "**1-Poder correr logo no início do jogo porque é chato ficar andando.
+	*2-Fazer um lugar onde você batalha e se ganhar você ganha um pokémon e se você perde você perde um pokémon
 	(Tipo o sistema de batalha de yu gi oh)"
 		//REPLY CADU NASCIMENTO
 		"Jhonatan fizeram isso na stone dragon 2"
@@ -58,7 +57,7 @@
 	"Colocar pra quando vencer uma batalha TDS os pokémons ganhar xp igual pra não ter q ficar 10 anos no matinho"
 
 //RAFAEL PEREIRA
-        "1-*pokemons que evoluem por troca evoluírem por lvl ou item consumível
+       "*1-pokemons que evoluem por troca evoluírem por lvl ou item consumível
         *2-Moves atualizados até a 5°Gen
 	*3-chance de achar pokemon shiny um pouco aumentada
 	 4-dificuldade aumentada (estilo Flora Sky rebirth)
@@ -77,7 +76,7 @@
 	"*Pokémon seguindo o herói e remoção das HMs ao estilo US/UM"
 
 //TIAGO WINCHESTER 
-	"*Pokemons q evoluem por troca evoluírem de forma comum
+	"*Pokemons que evoluem por troca evoluírem de forma comum
 		EDIT: Um item cairia bem"
 //DAVID YURI SAKAI 
 	"Eu Tenho Varias Ideias: 
@@ -86,20 +85,25 @@
 	 3-Poder Escolher O Modo De Dificuldade, etc..."
 
 //KAWAN MATHEUS
-"*1HM's não precisam ser utilizadas em pkm mas sim como em pokemmo cuja um item já sirva como a ocarina de surf ocarina de strenght. Ocarin flash ocarina dive....
-Ninguém gosta de ter que por no moveset algum deles, o melhor é o surf
-2**O PC aberto no menu do jogo quando vc apertasse start a primeira opçao fosse PC como em pokemon batle
-3**o uma tilesset otimizada, acho q n sou o unico que gosta de ver um outro tipo de tiles mais bonitos mais vivos ja que od de FR ou EMRD ja ficaram bem utrapassados
-4*o trocas e batalhas via link cable Adorava poder batalhar com meu irmao e poder fazer metodos evolutivos por troca ou se n conseguir coloque so o item link cable q ajudaria muito
-5*o exp for all, Odiava ter que ficar moita por moita lutando contra pokes selvagens pra upar um poke que era bem fraco pra melhoralo isso ocorria muito com magicarp ja q seu unico golpe era o splash
-6**o que nao faça que nem outras hack brasileiras sem noçao colocando pokes inimigos um nivel absurdo contra um poke bem fraco
-Ou que pelomenos tenha mais batlhas pra poder upar melhor nao sei qual a graça de colocar o jogo com esse tipo de coisa ridicula ja aconteceu comg varias vezes como meu poke LVL 25 eo do rival LVL 40 ou
-7**o mega em bataha
-É ne quem n gosta de expor o poder naximo do seus pokes em uma mega evoluçao e logico n uma permanente mais sim uma cuja um unico pokemon e um unico treinador podem ter laços interligado para uma mega evoluçao
-8*o Z-ring
-Um super ataque poderosso cairia bem contra um mestre da liga alem de terminar a batalha com estilo n da pra descrever o quao divertido seria lutar contra pokes totem para conquistar uma pedra Z
-9*o 809 e mais
-Quem n quer seu poke favorito desde. Um charmander a um necrozma todos os pokes e ainda os que estao por vir como os de galar seriam bem diverto para podermos fazer a nossa dream team com pokes fortes e fracos rapidos ou lento nao importando pra saber se tem tal poke ou se n tem o importante e poder dar seu maximo"
+       "*1-HM's não precisam ser utilizadas em pkm mas sim como em pokeMMO cuja um item já sirva como a ocarina de surf ocarina 
+	de strenght, ocarina flash, ocarina dive....Ninguém gosta de ter que por no moveset algum deles, o melhor é o surf.
+       **2-PC aberto no menu do jogo quando vc apertasse start a primeira opçao fosse PC como em pokemon batle.
+       **3-Uma tilesset otimizada, acho q n sou o unico que gosta de ver um outro tipo de tiles mais bonitos mais vivos ja que
+         o de FR ou EMRD ja ficaram bem utrapassados.
+        *4-trocas e batalhas via link cable Adorava poder batalhar com meu irmao e poder fazer metodos evolutivos por troca ou 
+	 se n conseguir coloque so o item link cable q ajudaria muito.
+	*5-exp for all, Odiava ter que ficar moita por moita lutando contra pokes selvagens pra upar um poke que era bem fraco 
+	 pra melhoralo isso ocorria muito com magicarp ja q seu unico golpe era o splash.
+       **6-que nao faça que nem outras hack brasileiras sem noçao colocando pokes inimigos um nivel absurdo contra um poke bem fraco
+	 Ou que pelomenos tenha mais batlhas pra poder upar melhor nao sei qual a graça de colocar o jogo com esse tipo de coisa 
+	 ridicula ja aconteceu comg varias vezes como meu poke LVL 25 eo do rival LVL 40 ou
+       **7-mega em bataha, É ne,  quem n gosta de expor o poder naximo do seus pokes em uma mega evoluçao e logico n uma permanente
+         mais sim uma cuja um unico pokemon e um unico treinador podem ter laços interligado para uma mega evoluçao.
+	*8-Z-ring, Um super ataque poderosso cairia bem contra um mestre da liga alem de terminar a batalha com estilo n da pra 
+	 descrever o quao divertido seria lutar contra pokes totem para conquistar uma pedra Z
+	*9- 809 e mais, Quem n quer seu poke favorito desde. Um charmander a um necrozma todos os pokes e ainda os que estao por vir 
+	 como os de galar seriam bem diverto para podermos fazer a nossa dream team com pokes fortes e fracos rapidos ou lento nao 
+	 importando pra saber se tem tal poke ou se n tem o importante e poder dar seu maximo"
 	//REPLY_ME:
 	       "1° Seria prático por apenas como item os HM'S, mas ficaria um tanto esquisito um HM como um item, bem, pelo menos eu penso assim.
 		2°Boa! Vou pensar em algo assim, um tipo de PC portatil talvez.
