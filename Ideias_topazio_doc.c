@@ -1,15 +1,15 @@
 ///////////////////////////////////////////////////////////////////////////////////////////////
-/**Documentação de idéias sugeridas pelos seguidores(parceiros) da página Pokémon Topázio: w //	
+/**Documentação de idéias sugeridas pelos seguidores(parceiros) da página Pokémon Topázio:   //	
    											     //
    OBS : O nível de importância da ideia é simbolizada pelo numéro de *(asteristicos);       //
 											     //	
-   ** -> Essencial;									     //	
+   ** -> Muito importante;								     //	
    *  -> Importante; 									     //	
-      -> Não muito relevante; 								     //
+      -> relevante; 								    	     //
 											     //
    //(NOME_USUARIO) = Mensagem realizada por outro usuário.				     //
-   //REPLY_ME = Mensagem de resposta realizada por mim.  				     //	
-   //REPLY (NOME_USUARIO) = Mensagem de resposta.					     //
+   //REPLY_ME = Mensagem resposta realizada por mim.  				             //	
+   //REPLY (NOME_USUARIO) = Mensagem de resposta realizada por outro usuário.		     //
    /*(TÓPICO) *_/ = Um tópico ou funcionalidade em que vários usuários concordam em ter.     //
    //MSG_BYME_START = Texto da postagem realizada por mim.				     //
    //EDIT = Uma pequena observação feita por mim.					     //
@@ -29,7 +29,7 @@
 //JHONATAN ICE
       "**1-Poder correr logo no início do jogo porque é chato ficar andando.
 	*2-Fazer um lugar onde você batalha e se ganhar você ganha um pokémon e se você perde você perde um pokémon
-	(Tipo o sistema de batalha de yu gi oh)"
+         (Tipo o sistema de batalha de yu gi oh)"
 		//REPLY CADU NASCIMENTO
 		"Jhonatan fizeram isso na stone dragon 2"
 
@@ -85,25 +85,25 @@
 	 3-Poder Escolher O Modo De Dificuldade, etc..."
 
 //KAWAN MATHEUS
-       "*1-HM's não precisam ser utilizadas em pkm mas sim como em pokeMMO cuja um item já sirva como a ocarina de surf ocarina 
+       "*1-HM's não precisam ser utilizadas em pkm mas sim como em pokeMMO cuja um item já sirva como a ocarina de surf, ocarina 
 	de strenght, ocarina flash, ocarina dive....Ninguém gosta de ter que por no moveset algum deles, o melhor é o surf.
        **2-PC aberto no menu do jogo quando vc apertasse start a primeira opçao fosse PC como em pokemon batle.
-       **3-Uma tilesset otimizada, acho q n sou o unico que gosta de ver um outro tipo de tiles mais bonitos mais vivos ja que
-         o de FR ou EMRD ja ficaram bem utrapassados.
-        *4-trocas e batalhas via link cable Adorava poder batalhar com meu irmao e poder fazer metodos evolutivos por troca ou 
-	 se n conseguir coloque so o item link cable q ajudaria muito.
-	*5-exp for all, Odiava ter que ficar moita por moita lutando contra pokes selvagens pra upar um poke que era bem fraco 
-	 pra melhoralo isso ocorria muito com magicarp ja q seu unico golpe era o splash.
-       **6-que nao faça que nem outras hack brasileiras sem noçao colocando pokes inimigos um nivel absurdo contra um poke bem fraco
-	 Ou que pelomenos tenha mais batlhas pra poder upar melhor nao sei qual a graça de colocar o jogo com esse tipo de coisa 
-	 ridicula ja aconteceu comg varias vezes como meu poke LVL 25 eo do rival LVL 40 ou
-       **7-mega em bataha, É ne,  quem n gosta de expor o poder naximo do seus pokes em uma mega evoluçao e logico n uma permanente
-         mais sim uma cuja um unico pokemon e um unico treinador podem ter laços interligado para uma mega evoluçao.
-	*8-Z-ring, Um super ataque poderosso cairia bem contra um mestre da liga alem de terminar a batalha com estilo n da pra 
-	 descrever o quao divertido seria lutar contra pokes totem para conquistar uma pedra Z
-	*9- 809 e mais, Quem n quer seu poke favorito desde. Um charmander a um necrozma todos os pokes e ainda os que estao por vir 
-	 como os de galar seriam bem diverto para podermos fazer a nossa dream team com pokes fortes e fracos rapidos ou lento nao 
-	 importando pra saber se tem tal poke ou se n tem o importante e poder dar seu maximo"
+       **3-Uma tilesset otimizada, acho que não sou o único que gosta de ver um outro tipo de tiles mais bonitos e mais vivos já que
+         o de FR ou EMRD ja ficaram bem ultrapassados.
+        *4-Trocas e batalhas via link cable, adorava poder batalhar com meu irmão e poder fazer métodos evolutivos por troca, ou 
+	 se não conseguir coloque só o item link cable que ajudaria muito.
+	*5-Exp for all, odiava ter que ficar moita por moita lutando contra pokes selvagens pra upar um poke que era bem fraco 
+	 pra melhora-lo isso ocorria muito com magikarp ja que seu unico golpe era o splash.
+       **6-Que não faça que nem outras hack brasileiras sem noção colocando pokes inimigos em um nivel absurdo contra um poke bem fraco
+	 ou que pelo menos tenha mais batalhas pra poder upar melhor, não sei qual a graça de colocar o jogo com esse tipo de coisa 
+	 ridícula ja aconteceu comg varias vezes como meu poke LVL 25 eo do rival LVL 40.
+       **7-Mega em bataha, É né,  quem não gosta de expor o poder máximo do seus pokes em uma mega evolução, é lógico não uma permanente
+         mas sim uma cuja um único pokémon e um único treinador podem ter laços interligadso para uma mega evolução.
+	*8-Z-ring, Um super ataque poderosso cairia bem contra um mestre da liga além de terminar a batalha com estilo não da pra 
+	 descrever o quão divertido seria lutar contra pokes totem para conquistar uma pedra Z.
+	*9- 809 e mais, quem não quer seu poke favorito desde um charmander á um necrozma, todos os pokes e ainda os que estão por vir 
+	 como os de galar seriam bem divertido para podermos fazer a nossa dream team com pokes fortes e fracos, rápidos ou lentos, não 
+	 importando pra saber se tem tal poke ou se não tem, o importante é poder dar seu máximo"
 	//REPLY_ME:
 	       "1-Seria prático por apenas como item os HM'S, mas ficaria um tanto esquisito um HM como um item, bem, pelo menos eu penso assim.
 		2-Boa! Vou pensar em algo assim, um tipo de PC portatil talvez.
@@ -128,31 +128,30 @@
 					//MOISES LIMA
 						"Pokémon_Versão_Topázio tbm quero a menção do meu nome na Hack, pode fazer isso?"
 							//MOISES LIMA
-							"**Pokémon_Versão_Topázio não quero te perturbar mais kkkkk, mas tive uma idéia que acho que seria interessante pra Rom, 
+						     "**Pokémon_Versão_Topázio não quero te perturbar mais kkkkk, mas tive uma idéia que acho que seria interessante pra Rom, 
 							eu notei que a maioria das roms nos ginásios depois que derrotamos o líder de ginásio temos que voltar o ginásio inteiro a pé mesmo, 
 							e em alguns deles tem puzzles, e até mesmo uns mini labirintos que acabam nos fazendo perder um tempo, queria sugerir de pôr um 
 							teleporte perto do Gym Leader, assim que ganhasse a insígnia, basta apenas pisar no teleporte e voltar pra porta do ginásio"
 								//REPLY_ME:
 								"É claro que posso fazer menção hahaha créditos finais, Npc ou na própria introdução do game você quer? 
-								Acerca da ideia, seria uma boa por um teleporte perto de cada Gym Leader, eu sinceramente não tinha pensado
+								 Acerca da ideia, seria uma boa por um teleporte perto de cada Gym Leader, eu sinceramente não tinha pensado
 								 nisso e realmente ajudaria bastante a poupar tempo e momentos de raiva kk, novamente muito obrigado Moises Lima,"
-								sinto que uma amizade vem por aí 
+								 sinto que uma amizade vem por aí 
 							
 							//MOISES LIMA
 							"Pokémon Versão Topázio de nada, quero que essa rom fique bem legal pra que eu possa curtir muito, quanto a menção,
-							 geralmente não vejo os créditos, e não acho que sou tão merecedor de aparecer na introdução do jogo kkkkk, então pode ser via NPC 
-							mesmo( de preferência antes da liga pq não costumo fazer muito pós games) kkkkkkkkk"
-							
-							//REPLY_ME:
-							"Kkkkkk, tudo bem então! 
-							Vai ter um Npc com teu nome antes da liga, vou documentar isso agora mesmo pra não esquecer! 
-							Forte abraço Moises Lima, qualquer outra sugestão sinta-se livre pra falar pois isso me ajuda bastante, 
-							fica com Deus man."
+							 geralmente não vejo os créditos, e não acho que sou tão merecedor de aparecer na introdução do jogo kkkkk, então pode ser via NPCccC 
+							 mesmo( de preferência antes da liga pq não costumo fazer muito pós games) kkkkkkkkk"
+								//REPLY_ME:
+							       "Kkkkkk, tudo bem então! 
+								Vai ter um Npc com teu nome antes da liga, vou documentar isso agora mesmo pra não esquecer! 
+								Forte abraço Moises Lima, qualquer outra sugestão sinta-se livre pra falar pois isso me ajuda bastante, 
+								fica com Deus man."
 							
 							//MOISES LIMA 
 						        "*obrigado, vou tentar pensar em outras sugestões que possam ser úteis, 
-							até pensei em te falar sobre o esquema de natures que o Tracer usou na rom dele Flora Sky Rebirth, em que ele 
-							descrevia a nature ao lado do nome, mas acho que já sugeriram isso tbm"
+							  até pensei em te falar sobre o esquema de natures que o Tracer usou na rom dele Flora Sky Rebirth, em que ele 
+							  descrevia a nature ao lado do nome, mas acho que já sugeriram isso tbm"
 								
 	"*Exp share no PC inicial
 		distribuir exp para a equipe inteira"
