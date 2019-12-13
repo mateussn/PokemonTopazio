@@ -1,17 +1,18 @@
 ///////////////////////////////////////////////////////////////////////////////////////////////
-/**Documentação de idéias sugeridas pela galera da página Pokémon Topázio 	WIP          //	
+/**Documentação de idéias sugeridas pelos seguidores(parceiros) da página Pokémon Topázio: w //	
    											     //
-   OBS :. O nível de importância da ideia é simbolizada pelo numéro de *(asteristicos);      //
+   OBS : O nível de importância da ideia é simbolizada pelo numéro de *(asteristicos);       //
 											     //	
-   ** -> Essêncial									     //	
-   *  -> importante 									     //	
-      -> tanto faz 								             //
+   ** -> Essencial;									     //	
+   *  -> Importante; 									     //	
+      -> Não muito relevante; 								     //
 											     //
    //MSG_BYME 	  = Mensagem realizada por mim.						     //
-   //(outro_nome) = Mensagem realizada por outro usuário.			             //	
-   //REPLY (nome_usuario) = Mensagem de resposta.					     //
-   /*TÓPICO *_/ = Um tópico ou funcionalidade em que vários usuários concordam em ter 	     //
-   					              					     //
+   //(NOME_USUARIO) = Mensagem realizada por outro usuário.				     //
+   //REPLY_ME = Mensagem de resposta realizada por mim.  				     //	
+   //REPLY (NOME_USUARIO) = Mensagem de resposta.					     //
+   /*(TÓPICO) *_/ = Um tópico ou funcionalidade em que vários usuários concordam em ter.     //
+   //MSG_BYME_START = Texto da postagem realizada por mim.			             //
 **/											     //
 											     //
 //MSG_BYME_START									     //
@@ -26,9 +27,9 @@
 	"*Contest - (Competições das mais variadas)."
 
 //JHONATAN ICE
-	"**Poder correr logo no início do jogo pq é chato fica andando.
+	"**Poder correr logo no início do jogo porque é chato ficar andando.
 
-	*Fazer um lugar onde vc batalha e se ganha vc ganha um pokémon e se vc perde vc perde um pokémon
+	*Fazer um lugar onde você batalha e se ganhar você ganha um pokémon e se você perde você perde um pokémon
 	(Tipo o sistema de batalha de yu gi oh)"
 		//REPLY CADU NASCIMENTO
 		"Jhonatan fizeram isso na stone dragon 2"
@@ -45,7 +46,7 @@
 	-KAWAN MATHEUS
 
 //GABRIEL EDUARDO ALVAREZ RUFASTO
-	"*Tms reutilizaveis"	
+	"**Tms reutilizaveis"	
 
 //FLYGON TIZ
 	"*Mais rivais"
@@ -54,15 +55,15 @@
 	"*As formas alternativas do pokémon"
 
 //CARLOS DANIEL
-	"*Colocar pra quando vencer uma batalha TDS os pokémons ganhar xp igual pra não ter q ficar 10 anos no matinho"
+	"Colocar pra quando vencer uma batalha TDS os pokémons ganhar xp igual pra não ter q ficar 10 anos no matinho"
 
 //RAFAEL PEREIRA
-       "*pokemons que evoluem por troca evoluírem por lvl ou item consumível
-	*Moves atualizados até a 5°Gen
-	*chance de achar pokemon shiny um pouco aumentada
-	 dificuldade aumentada (estilo Flora Sky rebirth)
-         alola forma
-	*alguns eventos extras.."
+        "1-*pokemons que evoluem por troca evoluírem por lvl ou item consumível
+        *2-Moves atualizados até a 5°Gen
+	*3-chance de achar pokemon shiny um pouco aumentada
+	 4-dificuldade aumentada (estilo Flora Sky rebirth)
+         5-alola forma
+	*6-alguns eventos extras.."
 	//REPLY LARRY GREY
 		"Cancela essa de dificuldade de flora sky pel'amor de deus :@ !!!"
 		//REPLY_ME:
@@ -79,7 +80,10 @@
 	"*Pokemons q evoluem por troca evoluírem de forma comum
 		EDIT: Um item cairia bem"
 //DAVID YURI SAKAI 
-	"*Eu Tenho Varias Ideias: Exp Pra Todos,Ter Uma Forma De Trocar De Roupa,Poder Escolher O Modo De Dificuldade,etc..."
+	"Eu Tenho Varias Ideias: 
+	*1-Exp Pra Todos
+	 2-Ter Uma Forma De Trocar De Roupa
+	 3-Poder Escolher O Modo De Dificuldade, etc..."
 
 //KAWAN MATHEUS
 "*1HM's não precisam ser utilizadas em pkm mas sim como em pokemmo cuja um item já sirva como a ocarina de surf ocarina de strenght. Ocarin flash ocarina dive....
