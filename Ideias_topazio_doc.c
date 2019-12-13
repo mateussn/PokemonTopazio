@@ -142,7 +142,7 @@
 							
 							//MOISES LIMA
 							"Pokémon Versão Topázio de nada, quero que essa rom fique bem legal pra que eu possa curtir muito, quanto a menção,
-							 geralmente não vejo os créditos, e não acho que sou tão merecedor de aparecer na introdução do jogo kkkkk, então pode ser via NPC   wwe 
+							 geralmente não vejo os créditos, e não acho que sou tão merecedor de aparecer na introdução do jogo kkkkk, então pode ser via NPC  ssd
 							 mesmo( de preferência antes da liga pq não costumo fazer muito pós games) kkkkkkkkk"
 								//REPLY_ME:
 							       "Kkkkkk, tudo bem então! 
