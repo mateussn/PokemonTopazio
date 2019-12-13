@@ -1,5 +1,5 @@
 ///////////////////////////////////////////////////////////////////////////////////////////////
-/**Documentação de idéias sugeridas pela galera da pág Pokémon Topázio 	WIP		     //	
+/**Documentação de idéias sugeridas pela galera da página Pokémon Topázio 	WIP          //	
    											     //
    OBS :. O nível de importância da ideia é simbolizada pelo numéro de *(asteristicos);      //
 											     //	
@@ -42,6 +42,7 @@
 	-ANDERSON FELIPE
 	-GUILHERME EDUARDO
 	-KAMITO EDITS
+	-KAWAN MATHEUS
 
 //GABRIEL EDUARDO ALVAREZ RUFASTO
 	"*Tms reutilizaveis"	
@@ -53,7 +54,7 @@
 	"*As formas alternativas do pokémon"
 
 //CARLOS DANIEL
-	"Colocar pra quando vencer uma batalha TDS os pokémons ganhar xp igual pra não ter q ficar 10 anos no matinho"
+	"*Colocar pra quando vencer uma batalha TDS os pokémons ganhar xp igual pra não ter q ficar 10 anos no matinho"
 
 //RAFAEL PEREIRA
        "*pokemons que evoluem por troca evoluírem por lvl ou item consumível
@@ -81,27 +82,22 @@
 	"*Eu Tenho Varias Ideias: Exp Pra Todos,Ter Uma Forma De Trocar De Roupa,Poder Escolher O Modo De Dificuldade,etc..."
 
 //KAWAN MATHEUS
- 
-"1HMs nao precisam ser utilizadas ne pokes mais sim como em pokemmo cuja um item ja cirva como a ocarina de surf ocarina de strenght. Ocarin flash ocarina dive....
-Ninguem gosta de ter que por no moveset algum dele o meulhor é o surf
-2o PC aberto no menu do jogo
-Quando vc apertace start a primeira opçao fosse PC como em pokemon batle
-3o uma tilesset otimizada
-Acho q n sou o unico que gosta de ver um outro tipo de tiles mais bonitos mais vivos ja que od de FR ou EMRD ja ficaram bem utrapassados
-4o trocas e batalhas via link cable
-Adorava poder batalhar com meu irmao e poder fazer metodos evolutivos por troca ou se n conseguir coloque so o item link cable q ajudaria muito
-5o exp for all
-Odiava ter que ficar moita por moita lutando contra pokes selvagens pra upar um poke que era bem fraco pra melhoralo isso ocorria muito com magicarp ja q seu unico golpe era o splash
-6o que nao faça que nem outras hack brasileiras sem noçao colocando pokes inimigos um nivel absurdo contra um poke bem fraco
+"*1HM's não precisam ser utilizadas em pkm mas sim como em pokemmo cuja um item já sirva como a ocarina de surf ocarina de strenght. Ocarin flash ocarina dive....
+Ninguém gosta de ter que por no moveset algum deles, o melhor é o surf
+2**O PC aberto no menu do jogo quando vc apertasse start a primeira opçao fosse PC como em pokemon batle
+3**o uma tilesset otimizada, acho q n sou o unico que gosta de ver um outro tipo de tiles mais bonitos mais vivos ja que od de FR ou EMRD ja ficaram bem utrapassados
+4*o trocas e batalhas via link cable Adorava poder batalhar com meu irmao e poder fazer metodos evolutivos por troca ou se n conseguir coloque so o item link cable q ajudaria muito
+5*o exp for all, Odiava ter que ficar moita por moita lutando contra pokes selvagens pra upar um poke que era bem fraco pra melhoralo isso ocorria muito com magicarp ja q seu unico golpe era o splash
+6**o que nao faça que nem outras hack brasileiras sem noçao colocando pokes inimigos um nivel absurdo contra um poke bem fraco
 Ou que pelomenos tenha mais batlhas pra poder upar melhor nao sei qual a graça de colocar o jogo com esse tipo de coisa ridicula ja aconteceu comg varias vezes como meu poke LVL 25 eo do rival LVL 40 ou
-7o mega em bataha
+7**o mega em bataha
 É ne quem n gosta de expor o poder naximo do seus pokes em uma mega evoluçao e logico n uma permanente mais sim uma cuja um unico pokemon e um unico treinador podem ter laços interligado para uma mega evoluçao
-8o Z-ring
+8*o Z-ring
 Um super ataque poderosso cairia bem contra um mestre da liga alem de terminar a batalha com estilo n da pra descrever o quao divertido seria lutar contra pokes totem para conquistar uma pedra Z
-9o 809 e mais
+9*o 809 e mais
 Quem n quer seu poke favorito desde. Um charmander a um necrozma todos os pokes e ainda os que estao por vir como os de galar seriam bem diverto para podermos fazer a nossa dream team com pokes fortes e fracos rapidos ou lento nao importando pra saber se tem tal poke ou se n tem o importante e poder dar seu maximo"
 	//REPLY_ME:
-		"Pokémon Versão Topázio 1° Seria prático por apenas como item os HM'S, mas ficaria um tanto esquisito um HM como um item, bem, pelo menos eu penso assim.
+	       "1° Seria prático por apenas como item os HM'S, mas ficaria um tanto esquisito um HM como um item, bem, pelo menos eu penso assim.
 		2°Boa! Vou pensar em algo assim, um tipo de PC portatil talvez.
 		3°Bom, posso dizer que o tileset de Topázio tá maravilhoso, totalmente novo e atualizado, não precisa se preocupar quanto a isso.
 		4°Foi bom tu ter me ligado quanto a isso, sobre métodos evolutivos por troca pensei em remover isso e por apenas por nível como algumas pessoas sugeriram.
@@ -112,7 +108,7 @@ Quem n quer seu poke favorito desde. Um charmander a um necrozma todos os pokes 
 		9°Pokémon Topázio vai ter uma variedade incrível de pokes, Vai ter pokes de até a geração que existir quando for lançado.
 		Obrigado Kawan, seu comentário foi de grande ajuda!"
 //MOISES LIMA
-	"Só não me coloque um primeiro ginásio nível 40 e me deixar pra treinar nas graminhas com pokes lvl 5, 
+	"**Só não me coloque um primeiro ginásio nível 40 e me deixar pra treinar nas graminhas com pokes lvl 5, 
 	já dropei várias Roms por causa disso, quebra totalmente o sentido de progressão do jogo, esse tipo de Rom ou vc
 	usa cheat pra upar seus pokes mais rápido, ou simplesmente dropa
 		Outro ponto super importante pra mim, sistema de repelente atualizado kkkkkkk"
@@ -125,7 +121,7 @@ Quem n quer seu poke favorito desde. Um charmander a um necrozma todos os pokes 
 						"Pokémon Versão Topázio tbm quero a menção do meu nome na Hack, pode fazer isso?"
 							
 							//MOISES LIMA
-							"Pokémon Versão Topázio não quero te perturbar mais kkkkk, mais tive uma idéia que acho que seria interessante pra Rom, 
+							"**Pokémon Versão Topázio não quero te perturbar mais kkkkk, mais tive uma idéia que acho que seria interessante pra Rom, 
 							eu notei que a maioria das roms nos ginásios depois que derrotamos o líder de ginásio temos que voltar o ginásio inteiro a pé mesmo, 
 							e em alguns deles tem puzzles, e até mesmo uns mini labirintos que acabam nos fazendo perder um tempo, queria sugerir de pôr um 
 							teleporte perto do Gym Leader, assim que ganhasse a insígnia, basta apenas pisar no teleporte e voltar pra porta do ginásio"
@@ -148,23 +144,24 @@ Quem n quer seu poke favorito desde. Um charmander a um necrozma todos os pokes 
 							fica com Deus man."
 							
 							//MOISES LIMA 
-						        "obrigado, vou tentar pensar em outras sugestões que possam ser úteis, 
+						        "*obrigado, vou tentar pensar em outras sugestões que possam ser úteis, 
 							até pensei em te falar sobre o esquema de natures que o Tracer usou na rom dele Flora Sky Rebirth, em que ele 
 							descrevia a nature ao lado do nome, mas acho que já sugeriram isso tbm"
 								
 							
 
-	"Exp share no PC inicial
+	"*Exp share no PC inicial
 		distribuir exp para a equipe inteira"
 
 //IGOR GARCIA 
-	"1- Missões secundárias
-	2- Muito Pós-game ksksksk
+       "*1- Missões secundárias
+	*2- Muito Pós-game ksksksk
 	3- Pokémons de niveis altos nos matinhos para poder treinar
-	4- xp para todos da equipe
-		Igor Garcia Pokémon Versão Topázio mais uma idéia, ia ser legal se vc ponhasse uns ites raros
+	*4- xp para todos da equipe"
+		//Igor Garcia Pokémon 
+		"*Versão Topázio mais uma idéia, ia ser legal se vc colocasse uns itens raros
  		escondidos pelo mapa (igual do verde musgo q tem alguns pokémons) ia ser tipo um bônus pra 
-		qm curti explorar os mapas dos games"
+		quem curti explorar os mapas dos games"
 			//REPLY ME:
 				"Pokémon Versão Topázio 
 					O ponto 1 confere! 
@@ -173,7 +170,8 @@ Quem n quer seu poke favorito desde. Um charmander a um necrozma todos os pokes 
 					vou fazer bastante testes para deixar o melhor possível essa questão. Forte Abraço Igor!"
 
 //Junior Fernandes Brayan
-	"Pokemons que são por trade e por item tem que evoluir por nível , 
+	(fazer uma divisão dos topicos)					
+	"**Pokemons que são por trade e por item tem que evoluir por nível , 
 	ter todas as TMS pra ser utilizado nos pokemons, ter todas Pokébolas a venda principalmente a 
 	park Ball pra a captura de Lendários a Master Ball seria pra captura de pokemons míticos,
 	 ter as mega evolução dos lendários específico, ter mais insígnias no total de 32 ou mais, ter todos os personagens nos lugares específicos, 
@@ -185,20 +183,20 @@ Quem n quer seu poke favorito desde. Um charmander a um necrozma todos os pokes 
  			Obrigado aí Junior, um abraço da Bahia!!"
 
 //PEDRO AGUIAR:
-	"Poder ter sem cheatar todos (até q geração que vai ter no jogo) os pokémons dragão"
+	"*Poder ter sem cheatar todos (até q geração que vai ter no jogo) os pokémons dragão"
 		//REPLY_ME:
 			"Possivelmente até a última geração que existir até lançar a Hack ;)"
 
 //Gabriel Braga
-	"1- Missões opcionais para se fazer durante o jogo, aumentando a imersão na rom hack e ocupar maior tempo de jogo.
-	2- Espaço no Computador expandido para poder armazenar todos os Pokémon, pensando em quem gosta de completar a Pokédex.
-	3- Novos desings para Pokédex, mochila, Cartão de Treinador, entre outros, apenas para aumentar a originalidade da rom hack, tal qual, tiles e sprites.
-	4- Pós game com possibilidades de desafiar novamente os líderes de ginásios, espaço semelhante com a Batalha da Fronteira, etc."
+	"*1- Missões opcionais para se fazer durante o jogo, aumentando a imersão na rom hack e ocupar maior tempo de jogo.
+	2*- Espaço no Computador expandido para poder armazenar todos os Pokémon, pensando em quem gosta de completar a Pokédex.
+	3**- Novos desings para Pokédex, mochila, Cartão de Treinador, entre outros, apenas para aumentar a originalidade da rom hack, tal qual, tiles e sprites.
+	4*- Pós game com possibilidades de desafiar novamente os líderes de ginásios, espaço semelhante com a Batalha da Fronteira, etc."
 		//REPLY_ME:
 			"Muito bom! Os pontos 1, 3, 4 já são garantidos. Quanto ao Espaço do PC expandido eu vou pesquisar um pouco acerca e tentar implementar"
 
 //Isaque Passos
-	"Um trio alternativo de iniciais
+	"*Um trio alternativo de iniciais
 	Exemplo: Houndour, Slowpoke, Shroomish (Dark, Psychic, Fighting)"
 
 
@@ -223,17 +221,18 @@ Quem n quer seu poke favorito desde. Um charmander a um necrozma todos os pokes 
 			para não ficar tão fácil. Bom, então é isso, Forte Abraço colega!"
 
 //João Marques Ferreira 
-	"Poder cumprir as missões a qualquer momento, sem obrigatoriedade de seguir uma ordem."
+	"*Poder cumprir as missões a qualquer momento, sem obrigatoriedade de seguir uma ordem."
 
 //Vitor Macedo 
-	"Missões opcionais, evolução por level ao invés de ser por troca e aparecimento dos personagens do anime nos torneios"
+	"*Missões opcionais, evolução por level ao invés de ser por troca e aparecimento dos personagens do anime nos torneios"
 
 //Matheus Mota Avelino 
 	"Que não tenha fakemon, e diversos iniciais pra escolher; eu por exemplo amo o torchic/blaziken 
 	e quase nunca os acho em hack rom, obrigado pelo esforço em produzir esse conteúdo."
 
 //Ryan Matheus 
-	"Coloca xp for all, isso é muito interessante, porque ajuda no treinamento, e coloca tbm se possivel um nivel 
+	(por em ordem os tópicos)
+	"*Coloca xp for all, isso é muito interessante, porque ajuda no treinamento, e coloca tbm se possivel um nivel 
 	equilibrado dos treinadores, mas não coloca muito fraco se não perde a graça, se possivel aumentar o nivel maximo dos Pokémon tipo
  	flora sky onde os poke vai até o lvl 150, e outra coisa, aumenta faz uma ilha pós game parecido com a fronteira de batalha, pra se divertir 
 	quando zerar o game. Tô ansioso pelo game!"
@@ -244,7 +243,7 @@ Quem n quer seu poke favorito desde. Um charmander a um necrozma todos os pokes 
 			talvez demore um pouco até ser lançada essa ROM Hack, mas quando for, você vai amar"
 
 //Gustavo Kako 
-	"No pós game, colocar treinadores, de anime/ jogos com seus principais pokémons para batalhar com lvl 80/90
+	"*No pós game, colocar treinadores, de anime/ jogos com seus principais pokémons para batalhar com lvl 80/90
 	exemplo-
 	●red (latios,charizard,blastoise,venusaur,snorlax e mewtwo)
 	●Ash (kalos)
@@ -257,5 +256,5 @@ Quem n quer seu poke favorito desde. Um charmander a um necrozma todos os pokes 
 
 
 //IDEIAS_BY_MATEUS
-	"wonder trade"
+	"*wonder trade"
 	
