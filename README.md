@@ -1,5 +1,6 @@
-# Pokemon Topazio Project
+<h1 align = "center">Pokémon Topázio ROM Hack Project</h1>
 
-Documents and files relative to Pokémon Topázio Version
+<p align = "center">Resoursces, codes, ideas and so on</p>
 
-![pkm_topazio](https://i.imgur.com/OaUmHw4.png)
+<p align = "center"><img src = "https://i.imgur.com/OaUmHw4.png" width = "600"></p>
+
